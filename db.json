@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Ernestine Abbott",
+      "id": 2
+    },
+    {
+      "name": "Carolyn Schiller",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Incredible Wooden Keyboard",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Rubber Gloves",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Modern Concrete Bacon",
+      "id": 16
+    },
+    {
+      "userId": 2,
+      "title": "Ergonomic Plastic Pizza",
+      "id": 17
+    },
+    {
+      "userId": 3,
+      "title": "Recycled Granite Chair",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "Handmade Rubber Salad",
+      "id": 19
+    },
+    {
+      "userId": 2,
+      "title": "Tasty Wooden Bike",
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Bronze Ball",
+      "id": 22
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Wooden Chips",
+      "id": 23
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Concrete Towels",
+      "id": 24
+    }
+  ],
+  "photos": []
+}
